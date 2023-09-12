@@ -1,7 +1,7 @@
 <html>
 <body>
-	<div align= "center">
-		<h2>Hello from MVC...!</h2>
+	<div align="center">
+		<h1>Hello from MVC..!!</h1>
 	</div>
 </body>
 </html>
